@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google IT Project Manager , Prompt Engineering**
 
-- 👨‍💻 All of my projects are available at [https://amanbhargava.me](https://amanbhargava.me)
+- 👨‍💻 All of my projects are available at [amanbhargava](https://amanbhargava.vercel.app.me)
 
 - 💬 Ask me about **React, Next, Nuxt, Vue**
 
